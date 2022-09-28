@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6916b672-dddb-44a2-9411-830b7c610028" name="Default Changelist" comment="" />
+    <list default="true" id="6916b672-dddb-44a2-9411-830b7c610028" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy/ElectricChargingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +16,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2FOL1pf4ZrvFYIaBbkhLkZQ6UxO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,11 +35,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lecture19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,6 +82,30 @@
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
     <state x="1880" y="187" key="#Project_Structure/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664360726065" />
+    <state x="2093" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1664379554922">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2093" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664379554922" />
+    <state x="2054" y="388" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1664374285463">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2054" y="388" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664374285463" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1664380254272">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664380254272" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1664380254271">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664380254271" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1664380254270">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664380254270" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1664380254271">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1664380254271" />
     <state x="1768" y="103" key="SettingsEditor" timestamp="1664360619895">
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
